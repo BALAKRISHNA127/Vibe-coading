@@ -18,7 +18,7 @@ https://sg-0d264005-7ab3-4c11-bea2-1e3a36e9.vercel.app/ : A fully functional and
 
 ## 📎 Links
 
-- 🔗 [Vegetables Web App](#) *(https://sg-0d264005-7ab3-4c11-bea2-1e3a36e9.vercel.app/)*
+- 🔗 [Vegetables Web App](https://sg-0d264005-7ab3-4c11-bea2-1e3a36e9.vercel.app/)
 
 
 
